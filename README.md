@@ -1,5 +1,12 @@
 # Starbucks-Project
 
+## Installation
+
+-NumPy
+-Pandas
+-Seaborn
+-Matplotlib
+-sklearn
 
 ## File Descriptions
 This repo contains 4 files.There is a notebook available here to showcase work related to the above questions and wrangling process. There are 3 data files used to address the above qustions
