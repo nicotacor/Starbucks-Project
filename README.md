@@ -20,4 +20,4 @@ portfolio.json - containing offer ids and meta data about each offer (duration, 
 profile.json - demographic data for each customer
 transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
-#Important: unzip files from the "data" folder
+# Important: unzip files from the "data" folder
